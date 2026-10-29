@@ -2,6 +2,14 @@
   "attribute_validation": [
     {
       "username": "user2",
+      "variable_name": "exterior_architectural_detailing",
+      "relevant": "yes",
+      "order_opinion": null,
+      "comment": "",
+      "updated_at": "2026-10-29T15:50:39.518395"
+    },
+    {
+      "username": "user2",
       "variable_name": "exterior_architectural_style",
       "relevant": "yes",
       "order_opinion": "",

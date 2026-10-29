@@ -9,3 +9,4 @@ logged_at,kind,username,house_id,variable_name,relevant,order_opinion,user_grade
 2026-10-29T15:48:25Z,attribute_validation,user2,,exterior_design_cohesion,no,,,,2026-10-29T15:48:07.180562
 2026-10-29T15:50:32Z,attribute_validation,user2,,exterior_architectural_style,yes,,,,2026-10-29T15:50:32.185545
 2026-10-29T15:50:36Z,attribute_validation,user2,,exterior_design_cohesion,yes,,,,2026-10-29T15:50:33.583729
+2026-10-29T15:50:40Z,attribute_validation,user2,,exterior_architectural_detailing,yes,,,,2026-10-29T15:50:39.518395
