@@ -11,3 +11,4 @@ logged_at,kind,username,house_id,variable_name,relevant,order_opinion,user_grade
 2026-10-29T15:50:36Z,attribute_validation,user2,,exterior_design_cohesion,yes,,,,2026-10-29T15:50:33.583729
 2026-10-29T15:50:40Z,attribute_validation,user2,,exterior_architectural_detailing,yes,,,,2026-10-29T15:50:39.518395
 2026-10-29T15:50:44Z,attribute_validation,user2,,exterior_proportion_balance,yes,,,,2026-10-29T15:50:38.209818
+2026-10-29T15:51:16Z,attribute_validation,user2,,exterior_proportion_balance,no,,,,2026-10-29T15:51:15.201567
