@@ -5,3 +5,4 @@ logged_at,kind,username,house_id,variable_name,relevant,order_opinion,user_grade
 2026-10-29T15:48:09Z,attribute_validation,user2,,exterior_proportion_balance,yes,,,,2026-10-29T15:48:09.466407
 2026-10-29T15:48:13Z,attribute_validation,user2,,exterior_proportion_balance,yes,,,,2026-10-29T15:48:12.618082
 2026-10-29T15:48:15Z,attribute_validation,user2,,exterior_proportion_balance,yes,,,,2026-10-29T15:48:15.264195
+2026-10-29T15:48:19Z,attribute_validation,user2,,exterior_proportion_balance,no,,,,2026-10-29T15:48:18.798200
