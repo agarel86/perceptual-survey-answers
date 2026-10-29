@@ -15,6 +15,14 @@
       "order_opinion": "",
       "comment": "",
       "updated_at": "2026-10-29T15:29:48.134619"
+    },
+    {
+      "username": "user2",
+      "variable_name": "exterior_proportion_balance",
+      "relevant": "yes",
+      "order_opinion": null,
+      "comment": "",
+      "updated_at": "2026-10-29T15:48:09.466407"
     }
   ],
   "house_scoring": []
