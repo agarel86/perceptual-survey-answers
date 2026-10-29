@@ -11,10 +11,10 @@
     {
       "username": "user2",
       "variable_name": "exterior_architectural_style",
-      "relevant": "no",
+      "relevant": "yes",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:52:39.560295"
+      "updated_at": "2026-10-29T15:52:39.922476"
     },
     {
       "username": "user2",
