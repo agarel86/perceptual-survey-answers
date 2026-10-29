@@ -3,10 +3,10 @@
     {
       "username": "user2",
       "variable_name": "exterior_architectural_style",
-      "relevant": "no",
+      "relevant": "yes",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:48:06.405923"
+      "updated_at": "2026-10-29T15:50:32.185545"
     },
     {
       "username": "user2",
