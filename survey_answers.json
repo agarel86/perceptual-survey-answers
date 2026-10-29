@@ -6,7 +6,7 @@
       "relevant": "no",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:54:02.195389"
+      "updated_at": "2026-10-29T16:12:53.223612"
     },
     {
       "username": "user2",
@@ -14,7 +14,15 @@
       "relevant": "yes",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:53:59.976981"
+      "updated_at": "2026-10-29T16:12:53.223612"
+    },
+    {
+      "username": "user2",
+      "variable_name": "exterior_condition",
+      "relevant": "yes",
+      "order_opinion": "",
+      "comment": "",
+      "updated_at": "2026-10-29T16:12:53.223612"
     },
     {
       "username": "user2",
@@ -22,7 +30,7 @@
       "relevant": "no",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:54:00.675817"
+      "updated_at": "2026-10-29T16:12:53.223612"
     },
     {
       "username": "user2",
@@ -30,7 +38,23 @@
       "relevant": "yes",
       "order_opinion": "first",
       "comment": "",
-      "updated_at": "2026-10-29T15:54:04.761969"
+      "updated_at": "2026-10-29T16:12:53.223612"
+    },
+    {
+      "username": "user2",
+      "variable_name": "interior_condition",
+      "relevant": "yes",
+      "order_opinion": "",
+      "comment": "",
+      "updated_at": "2026-10-29T16:12:53.223612"
+    },
+    {
+      "username": "user2",
+      "variable_name": "kitchen_condition",
+      "relevant": "yes",
+      "order_opinion": "",
+      "comment": "",
+      "updated_at": "2026-10-29T16:12:53.223612"
     }
   ],
   "house_scoring": []
