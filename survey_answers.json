@@ -27,10 +27,10 @@
     {
       "username": "user2",
       "variable_name": "exterior_proportion_balance",
-      "relevant": "no",
+      "relevant": "yes",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:48:18.798200"
+      "updated_at": "2026-10-29T15:50:38.209818"
     }
   ],
   "house_scoring": []
