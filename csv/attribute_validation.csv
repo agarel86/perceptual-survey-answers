@@ -1,11 +1,1 @@
 username,variable_name,relevant,order_opinion,comment,updated_at
-user2,bathroom_condition,yes,first,,2026-10-29T16:19:36.468922
-user2,exterior_architectural_detailing,no,,,2026-10-29T16:19:36.468922
-user2,exterior_architectural_style,yes,first,agent-live-test,2026-10-29T16:19:36.468922
-user2,exterior_condition,no,,,2026-10-29T16:19:36.468922
-user2,exterior_design_cohesion,no,,,2026-10-29T16:19:36.468922
-user2,exterior_proportion_balance,yes,first,,2026-10-29T16:19:36.468922
-user2,interior_condition,no,,,2026-10-29T16:19:36.468922
-user2,interior_material_quality,yes,,,2026-10-29T16:19:36.468922
-user2,kitchen_condition,yes,first,,2026-10-29T16:19:36.468922
-user2,kitchen_material_quality,yes,,,2026-10-29T16:19:36.468922
