@@ -3,34 +3,34 @@
     {
       "username": "user2",
       "variable_name": "exterior_architectural_detailing",
-      "relevant": "yes",
-      "order_opinion": null,
+      "relevant": "no",
+      "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:50:39.518395"
+      "updated_at": "2026-10-29T15:54:02.195389"
     },
     {
       "username": "user2",
       "variable_name": "exterior_architectural_style",
-      "relevant": "no",
+      "relevant": "yes",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:53:00.218979"
+      "updated_at": "2026-10-29T15:53:59.976981"
     },
     {
       "username": "user2",
       "variable_name": "exterior_design_cohesion",
-      "relevant": "yes",
+      "relevant": "no",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:50:33.583729"
+      "updated_at": "2026-10-29T15:54:00.675817"
     },
     {
       "username": "user2",
       "variable_name": "exterior_proportion_balance",
       "relevant": "yes",
-      "order_opinion": "",
+      "order_opinion": "first",
       "comment": "",
-      "updated_at": "2026-10-29T15:51:15.677802"
+      "updated_at": "2026-10-29T15:54:04.761969"
     }
   ],
   "house_scoring": []

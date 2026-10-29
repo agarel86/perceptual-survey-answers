@@ -21,3 +21,4 @@ logged_at,kind,username,house_id,variable_name,relevant,order_opinion,user_grade
 2026-10-29T15:52:43Z,attribute_validation,user2,,exterior_architectural_style,yes,,,,2026-10-29T15:52:39.922476
 2026-10-29T15:52:59Z,attribute_validation,user2,,exterior_architectural_style,no,,,,2026-10-29T15:52:58.650704
 2026-10-29T15:53:04Z,attribute_validation,user2,,exterior_architectural_style,no,,,,2026-10-29T15:53:00.218979
+2026-10-29T15:54:09Z,replace_all,,,,,,,,
