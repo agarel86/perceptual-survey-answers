@@ -1,0 +1,21 @@
+{
+  "attribute_validation": [
+    {
+      "username": "user2",
+      "variable_name": "exterior_architectural_style",
+      "relevant": "yes",
+      "order_opinion": "",
+      "comment": "",
+      "updated_at": "2026-10-29T15:29:47.274884"
+    },
+    {
+      "username": "user2",
+      "variable_name": "exterior_design_cohesion",
+      "relevant": "yes",
+      "order_opinion": "",
+      "comment": "",
+      "updated_at": "2026-10-29T15:29:48.134619"
+    }
+  ],
+  "house_scoring": []
+}
