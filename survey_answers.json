@@ -11,10 +11,10 @@
     {
       "username": "user2",
       "variable_name": "exterior_design_cohesion",
-      "relevant": "no",
+      "relevant": "yes",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T15:48:07.180562"
+      "updated_at": "2026-10-29T15:50:33.583729"
     },
     {
       "username": "user2",
