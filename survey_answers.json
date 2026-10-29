@@ -2,27 +2,35 @@
   "attribute_validation": [
     {
       "username": "user2",
+      "variable_name": "bathroom_condition",
+      "relevant": "yes",
+      "order_opinion": "",
+      "comment": "",
+      "updated_at": "2026-10-29T16:18:46.945544"
+    },
+    {
+      "username": "user2",
       "variable_name": "exterior_architectural_detailing",
       "relevant": "no",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T16:12:56.140807"
+      "updated_at": "2026-10-29T16:18:46.945544"
     },
     {
       "username": "user2",
       "variable_name": "exterior_architectural_style",
       "relevant": "yes",
-      "order_opinion": "",
-      "comment": "",
-      "updated_at": "2026-10-29T16:12:56.140807"
+      "order_opinion": "first",
+      "comment": "agent-live-test",
+      "updated_at": "2026-10-29T16:18:46.945544"
     },
     {
       "username": "user2",
       "variable_name": "exterior_condition",
-      "relevant": "yes",
+      "relevant": "no",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T16:12:56.140807"
+      "updated_at": "2026-10-29T16:18:46.945544"
     },
     {
       "username": "user2",
@@ -30,7 +38,7 @@
       "relevant": "no",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T16:12:56.140807"
+      "updated_at": "2026-10-29T16:18:46.945544"
     },
     {
       "username": "user2",
@@ -38,15 +46,15 @@
       "relevant": "yes",
       "order_opinion": "first",
       "comment": "",
-      "updated_at": "2026-10-29T16:12:56.140807"
+      "updated_at": "2026-10-29T16:18:46.945544"
     },
     {
       "username": "user2",
       "variable_name": "interior_condition",
-      "relevant": "yes",
+      "relevant": "no",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T16:12:56.140807"
+      "updated_at": "2026-10-29T16:18:46.945544"
     },
     {
       "username": "user2",
@@ -54,7 +62,7 @@
       "relevant": "yes",
       "order_opinion": "",
       "comment": "",
-      "updated_at": "2026-10-29T16:12:56.140807"
+      "updated_at": "2026-10-29T16:18:46.945544"
     }
   ],
   "house_scoring": []
