@@ -1,0 +1,40 @@
+{
+  "username": "user1",
+  "saved_at": "2026-10-30T09:21:05.758Z",
+  "validation": {},
+  "scores": {
+    "id206867": {
+      "photo_composition_quality": "Good",
+      "exterior_view_quality": "Average",
+      "exterior_color_harmony": "Good",
+      "outdoor_maintenance_level": "Excellent",
+      "interior_cleanliness": "Excellent",
+      "exterior_spatial_openness": "Excellent"
+    },
+    "id234506": {
+      "interior_condition": "Good",
+      "exterior_architectural_style": "Average",
+      "interior_natural_light": "Good",
+      "lighting_fixture_quality": "Average",
+      "interior_material_quality": "Good",
+      "interior_layout_flow": "Terrible"
+    },
+    "id211053": {
+      "photo_lighting_quality": "Excellent",
+      "exterior_design_cohesion": "Excellent",
+      "exterior_lighting_ambience": "Excellent",
+      "bathroom_material_quality": "Good",
+      "kitchen_condition": "Good",
+      "outdoor_amenity_presence": "Bad"
+    },
+    "id235035": {
+      "bathroom_fixture_modernity": "Good",
+      "interior_spaciousness": "Good",
+      "exterior_privacy_perception": "Good",
+      "bathroom_natural_light": "Excellent",
+      "exterior_architectural_detailing": "Excellent",
+      "kitchen_material_quality": "Good"
+    },
+    "id212516": {}
+  }
+}
