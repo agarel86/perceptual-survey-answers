@@ -1,0 +1,15 @@
+{
+  "username": "user5",
+  "saved_at": "2026-10-30T11:15:25.168Z",
+  "validation": {
+    "exterior_proportion_balance": {
+      "relevant": "no",
+      "order_opinion": "",
+      "t": 1793358749581,
+      "updated_at": "2026-10-30T11:12:29.581Z"
+    }
+  },
+  "scores": {
+    "id208873": {}
+  }
+}
