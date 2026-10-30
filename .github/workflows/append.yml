@@ -1,0 +1,56 @@
+name: Append survey answers
+
+on:
+  workflow_dispatch:
+    inputs:
+      username:
+        description: Survey username
+        required: true
+        type: string
+      snapshot:
+        description: JSON snapshot of answers
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write a new inbox file only
+        env:
+          USERNAME: ${{ inputs.username }}
+          SNAPSHOT: ${{ inputs.snapshot }}
+        run: |
+          python3 <<'PY'
+          import json, os, pathlib, re, secrets, datetime
+          user = os.environ.get("USERNAME", "").strip()
+          if not re.fullmatch(r"[A-Za-z0-9._-]{1,40}", user):
+              raise SystemExit("invalid username")
+          snap = json.loads(os.environ["SNAPSHOT"])
+          if not isinstance(snap, dict):
+              raise SystemExit("snapshot must be an object")
+          snap["username"] = user
+          folder = pathlib.Path("inbox") / user
+          folder.mkdir(parents=True, exist_ok=True)
+          stamp = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H-%M-%SZ")
+          path = folder / f"{stamp}-{secrets.token_hex(4)}.json"
+          if path.exists():
+              raise SystemExit("refusing to overwrite existing file")
+          path.write_text(json.dumps(snap, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          print("created", path)
+          PY
+      - name: Commit new file
+        run: |
+          git config user.name "survey-inbox"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add inbox
+          if git diff --cached --quiet; then
+            echo "no change"
+            exit 0
+          fi
+          git commit -m "append answers ${{ inputs.username }}"
+          git push
