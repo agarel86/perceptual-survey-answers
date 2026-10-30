@@ -53,4 +53,9 @@ jobs:
             exit 0
           fi
           git commit -m "append answers ${{ inputs.username }}"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 3
+          done
+          git pull --rebase origin main
           git push
