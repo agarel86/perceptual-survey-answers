@@ -1,0 +1,24 @@
+{
+  "username": "user1",
+  "saved_at": "2026-10-30T09:20:42.503Z",
+  "validation": {},
+  "scores": {
+    "id206867": {
+      "photo_composition_quality": "Good",
+      "exterior_view_quality": "Average",
+      "exterior_color_harmony": "Good",
+      "outdoor_maintenance_level": "Excellent",
+      "interior_cleanliness": "Excellent",
+      "exterior_spatial_openness": "Excellent"
+    },
+    "id234506": {
+      "interior_condition": "Good",
+      "exterior_architectural_style": "Average",
+      "interior_natural_light": "Good",
+      "lighting_fixture_quality": "Average",
+      "interior_material_quality": "Good",
+      "interior_layout_flow": "Terrible"
+    },
+    "id211053": {}
+  }
+}
