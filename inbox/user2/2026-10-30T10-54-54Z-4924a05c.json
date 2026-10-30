@@ -1,0 +1,31 @@
+{
+  "username": "user2",
+  "saved_at": "2026-10-30T10:54:47.568Z",
+  "validation": {
+    "exterior_architectural_style": {
+      "relevant": "yes",
+      "t": 1793357121112,
+      "updated_at": "2026-10-30T10:45:21.112Z",
+      "order_opinion": "first"
+    },
+    "exterior_design_cohesion": {
+      "relevant": "no",
+      "order_opinion": "",
+      "t": 1793357121868,
+      "updated_at": "2026-10-30T10:45:21.868Z"
+    },
+    "exterior_proportion_balance": {
+      "relevant": "no",
+      "order_opinion": "",
+      "t": 1793357122444,
+      "updated_at": "2026-10-30T10:45:22.444Z"
+    },
+    "exterior_architectural_detailing": {
+      "relevant": "no",
+      "order_opinion": "",
+      "t": 1793357684456,
+      "updated_at": "2026-10-30T10:54:44.456Z"
+    }
+  },
+  "scores": {}
+}
